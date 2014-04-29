@@ -18,7 +18,7 @@ using std::swap;
 using std::ostream;
 
 /*
- * Класс целых чисел с арифметикой в поле P.
+ * Class of integer numbers with field P arithmetics.
  */
 template <int P>
 class Modular {
